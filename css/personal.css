@@ -4,9 +4,6 @@
 	text-transform: uppercase;
 	font-family: Montserrat, Helvetica, sans-serif;
 }
-projects img{
-	max-width:300px;
-}
 p, i {
 	text-transform: none;
 }
@@ -59,6 +56,13 @@ h1{
 }
 #seeMoreShamrock{
 	display:none;
+}
+.copyright{
+	margin-top: 40px;
+}
+.copyright p{
+	font-size:small;
+	color:grey;
 }
 a:hover{
 	color:#353d74;
